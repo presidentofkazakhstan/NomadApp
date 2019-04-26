@@ -1,0 +1,16 @@
+c:\users\тынышбаева.corp\source\repos\ControlNomadApp\ControlNomadApp\bin\Debug\ControlNomadApp.exe.config
+c:\users\тынышбаева.corp\source\repos\ControlNomadApp\ControlNomadApp\bin\Debug\ControlNomadApp.exe
+c:\users\тынышбаева.corp\source\repos\ControlNomadApp\ControlNomadApp\bin\Debug\ControlNomadApp.pdb
+c:\users\тынышбаева.corp\source\repos\ControlNomadApp\ControlNomadApp\bin\Debug\EntityFramework.dll
+c:\users\тынышбаева.corp\source\repos\ControlNomadApp\ControlNomadApp\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\тынышбаева.corp\source\repos\ControlNomadApp\ControlNomadApp\bin\Debug\EntityFramework.xml
+c:\users\тынышбаева.corp\source\repos\ControlNomadApp\ControlNomadApp\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\тынышбаева.corp\source\repos\ControlNomadApp\ControlNomadApp\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\тынышбаева.corp\source\repos\ControlNomadApp\ControlNomadApp\obj\Debug\ControlNomadApp.csprojAssemblyReference.cache
+c:\users\тынышбаева.corp\source\repos\ControlNomadApp\ControlNomadApp\obj\Debug\ControlNomadApp.csproj.CoreCompileInputs.cache
+c:\users\тынышбаева.corp\source\repos\ControlNomadApp\ControlNomadApp\obj\Debug\ControlNomadApp.csproj.CopyComplete
+c:\users\тынышбаева.corp\source\repos\ControlNomadApp\ControlNomadApp\obj\Debug\ControlNomadApp.exe
+c:\users\тынышбаева.corp\source\repos\ControlNomadApp\ControlNomadApp\obj\Debug\ControlNomadApp.pdb
+c:\users\тынышбаева.corp\source\repos\ControlNomadApp\ControlNomadApp\obj\Debug\ControlNomadApp.Migrations.InitialCreate.resources
+c:\users\тынышбаева.corp\source\repos\ControlNomadApp\ControlNomadApp\obj\Debug\ControlNomadApp.csproj.GenerateResource.cache
+c:\users\тынышбаева.corp\source\repos\ControlNomadApp\ControlNomadApp\obj\Debug\ControlNomadApp.Migrations.NomadMigration.resources
